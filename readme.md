@@ -1,0 +1,1 @@
+My second pet-project consisting of the first experience with async programming in the form of creating Telegram-bot based on Aiogram and MySQL
