@@ -27,7 +27,11 @@ class FSMAdmin_task(StatesGroup):
 
 job_stores = {
     "default": RedisJobStore(
-        jobs_key="dispatched_trips_jobs", run_times_key="dispatched_trips_running"
+        jobs_key="dispatched_trips_jobs",
+        run_times_key="dispatched_trips_running",
+        host='localhost',
+        db=2,
+        port=6379
     )
 }
 
