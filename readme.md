@@ -4,7 +4,7 @@
 ![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&color=red)
 ![PyPI](https://img.shields.io/pypi/v/mysqlclient?label=mysqlclient&color=green)
 ![PyPI](https://img.shields.io/pypi/v/APScheduler?label=APScheduler&color=pink)
-
+![PyPI](https://img.shields.io/pypi/v/redis?label=redis&color=brown)
 
 ### :sparkles: Actual business benefit
 
@@ -12,7 +12,7 @@ The project will be useful for students who want to systematize the learning pro
 
 ___
 
-### The possibilities that the bot provides
+### :clipboard: The possibilities that the bot provides
 
 Each user has the ability to:
 
